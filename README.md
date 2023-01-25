@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jwinn19464
 - 👀 I’m interested in learning all that I can about what computer science has to offer.
-- 🌱 I’m currently learning more about Java, Python, x86 Assembly, and C++.
+- 🌱 I’m currently learning more about Java, Python, x86 Assembly, C++, C, and Arduinos.
 - 💞️ I’m looking to collaborate on anything, so long you show me the ropes. Then I'll do my best to contribute as much as I can.
 - 📫 How to reach me: jwinn19464@gmail.com
 
